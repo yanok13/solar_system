@@ -19,5 +19,5 @@ npm run build
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Project
-Реализовать проект на основе swapi.dev
+Реализовать проект на основе [swapi.dev](https://swapi.dev/)
 Слева навигация по планетам. В основном блоке вывести детальную информацию с указаниями всех рефов по этой планете.
